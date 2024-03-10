@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_surname">ANN DZYUBA</string>
+    <string name="business">Business analyst</string>
+    <string name="phone_number">+79091112233</string>
+    <string name="email_text">annaaaaa@gmail.com</string>
+    <string name="share_text">@dzubik</string>
+</resources>
